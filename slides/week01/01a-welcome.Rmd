@@ -1,0 +1,52 @@
+---
+title: "Welcome"
+author: "Dr. Mine Dogucu <br> Dr. Babak Shahbaba"
+output: 
+  xaringan::moon_reader:
+    css: ["../slide-style.css"]
+    lib_dir: libs
+    seal: false
+    nature:
+      ratio: 16:9
+      highlightStyle: "pygments"
+      highlightLines: true
+      highlightLanguage: "r"
+
+---
+
+class: title-slide
+
+```{r echo = FALSE}
+library(fabricerin)
+```
+
+<br>
+<br>
+.right-panel[ 
+<br>
+
+# `r rmarkdown::metadata$title`
+
+## `r rmarkdown::metadata$author`
+
+]
+
+---
+
+## Instructors
+
+---
+
+## TAs
+
+
+---
+
+## Getting to Know Each Other
+
+---
+
+## Testing Out Tools
+
+---
+
