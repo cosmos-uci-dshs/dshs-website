@@ -3,7 +3,7 @@ title: "Welcome"
 author: "Dr. Mine Dogucu <br> Dr. Babak Shahbaba"
 output: 
   xaringan::moon_reader:
-    css: ["../slide-style.css"]
+    css: ["slide-style.css"]
     lib_dir: libs
     seal: false
     nature:
@@ -38,6 +38,7 @@ library(fabricerin)
 ---
 
 ## TAs
+
 
 
 ---
