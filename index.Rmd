@@ -1,0 +1,8 @@
+---
+title: "DSHS"
+description: |
+  COSMOS (The California State Summer School for Mathematics and Science) at UC Irvine - Data Science in Health Sciences for High School Students
+site: distill::distill_website
+---
+
+YouTube video to come

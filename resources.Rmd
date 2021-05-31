@@ -1,0 +1,30 @@
+---
+title: "Resources"
+
+---
+
+<table class="table table-condensed table-striped text-left">
+
+		  
+  <tr>
+    <td><a href="https://canvas.eee.uci.edu/courses/26868" target="_blank">Remote Student Success Guide </a> </td>
+    <td>Learn how to be successful as you navigate remote learning.</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://docs.google.com/document/d/1ofrsjUTGkjnyizldsp6haC-8T9XBnY-psoz8Otldk90/edit" target="_blank">Zoom Student Guide</a></td>
+    <td>Getting started with zoom</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://www.datapedagogy.com/posts/2020-07-28-address-people-academia/" target="_blank">Addressing People in Academia</a></td>
+    <td>This blog post talks about whom to call Dr., Prof., or Mx. etc..</td>
+  </tr>
+		  
+<tr>
+  <td><a href="http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofstatistics/datascience_bs/" target="_blank">Data Science Major at UC Irvine</a></td>
+  <td>This is one example of a data science major at the college level. </td>
+  
+ </tr>
+
+</table>

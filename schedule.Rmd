@@ -1,0 +1,195 @@
+---
+title: "Daily Schedule"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<button class="accordion">Before Starting the Program</button>
+<div class="panel">  Under Construction</div>
+		
+<!-- connecting to UCI email address-->
+		
+<button class="accordion">Day 1 &#9679; July 6 &#9679; Introduction to COSMOS, R, and Data</button>
+<div class="panel">
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 08:30 - 09:00 | Welcome                            |       |
+| 09:00 - 09:50 | Introduction to R and R Markdown   |       |
+| 10:00 - 10:50 | Introduction to Data               |       |
+| 11:00 - 12:00 | Introduction to Data Visualization |       |
+
+</div>
+		
+
+<button class="accordion">Day 2 &#9679; July 7</button>
+<div class="panel">
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 3 &#9679; July 8</button>
+<div class="panel">
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 4 &#9679; July 9</button>
+<div class="panel"> 
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 5 &#9679; July 12</button>
+<div class="panel"> 
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 6 &#9679; July 13</button>
+<div class="panel"> 
+
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 7 &#9679; July 14</button>
+<div class="panel"> 
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 8 &#9679; July 15</button>
+<div class="panel"> 
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 9 &#9679; July 16</button>
+<div class="panel">
+
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 10 &#9679; July 19</button>
+<div class="panel"> 
+
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 11 &#9679; July 20</button>
+<div class="panel"> 
+
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 12 &#9679; July 21</button>
+<div class="panel"> 
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 13 &#9679; July 22</button>
+<div class="panel"> 
+
+Under Construction
+
+</div>
+
+<button class="accordion">Day 14 &#9679; July 23</button>
+<div class="panel"> 
+
+Under Construction
+
+</div>
+
+<button class="accordion">Day 15 &#9679; July 26</button>
+<div class="panel"> 
+
+Under Construction
+
+</div>
+
+<button class="accordion">Day 16 &#9679; July 27</button>
+<div class="panel"> 
+
+
+Under Construction
+
+</div>
+
+<button class="accordion">Day 17 &#9679; July 28</button>
+<div class="panel"> 
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 18 &#9679; July 29</button>
+<div class="panel"> 
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 19 &#9679; July 30</button>
+
+<div class="panel">
+
+Under Construction
+
+</div>
+		
+<button class="accordion">Day 20 &#9679; July 31</button>
+<div class="panel"> <
+
+
+Under Construction
+
+</div>
+
+```{r}
+htmltools::tagList(
+  htmltools::tags$script(src = "https://d3js.org/d3.v4.min.js"),
+  htmltools::tags$script(src = "https://cdnjs.cloudflare.com/ajax/libs/dimple/2.3.0/dimple.latest.min.js")
+)
+```
+
+```{js, class.source = "jsvis1"}
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+    this.classList.toggle("active");
+
+    /* Toggle between hiding and showing the active panel */
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+```
+
+<a href="slides/week01/01a-welcome.html" target = "_blank"> <i class="fas fa-chalkboard-teacher" aria-hidden="true" title="Link to lecture video"></i></a>
