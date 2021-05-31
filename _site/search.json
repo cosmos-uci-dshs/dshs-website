@@ -5,29 +5,29 @@
       "title": "DSHS",
       "description": "COSMOS (The California State Summer School for Mathematics and Science) at UC Irvine - Data Science in Health Sciences for High School Students\n",
       "author": [],
-      "contents": "\nYouTube video to come\n\n\n\n",
-      "last_modified": "2021-05-31T12:06:36-07:00"
+      "contents": "\r\nYouTube video to come\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-31T14:42:33-07:00"
     },
     {
       "path": "people.html",
       "title": "People",
       "author": [],
-      "contents": "\nFaculty\n\n\nDr. Mine Dogucu\nDr. Babak Shahbaba\nshe/her/hers\nhe/him/his\n Your browser does not support the audio element. \n Your browser does not support the audio element. \nTeaching Assistants (TAs)\n\n\n\nAlicia Becerra Romero\nKyle Conniff\nThabat Dahdoul\nshe/her/hers\nhe/him/his\nshe/her/hers\n Your browser does not support the audio element. \n Your browser does not support the audio element. \n Your browser does not support the audio element. \n\n\n\n",
-      "last_modified": "2021-05-31T12:06:36-07:00"
+      "contents": "\r\nFaculty\r\n\r\n\r\nDr. Mine Dogucu\r\nDr. Babak Shahbaba\r\nshe/her/hers\r\nhe/him/his\r\n Your browser does not support the audio element. \r\n Your browser does not support the audio element. \r\nTeaching Assistants (TAs)\r\n\r\n\r\n\r\nAlicia Becerra Romero\r\nKyle Conniff\r\nThabat Dahdoul\r\nshe/her/hers\r\nhe/him/his\r\nshe/her/hers\r\n Your browser does not support the audio element. \r\n Your browser does not support the audio element. \r\n Your browser does not support the audio element. \r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-31T14:42:35-07:00"
     },
     {
       "path": "resources.html",
       "title": "Resources",
       "author": [],
-      "contents": "\n\nRemote Student Success Guide \n\n\nLearn how to be successful as you navigate remote learning.\n\n\nZoom Student Guide\n\n\nGetting started with zoom\n\n\nAddressing People in Academia\n\n\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\n\n\nData Science Major at UC Irvine\n\n\nThis is one example of a data science major at the college level.\n\n\n\n\n",
-      "last_modified": "2021-05-31T12:06:37-07:00"
+      "contents": "\r\n\r\nRemote Student Success Guide \r\n\r\n\r\nLearn how to be successful as you navigate remote learning.\r\n\r\n\r\nZoom Student Guide\r\n\r\n\r\nGetting started with zoom\r\n\r\n\r\nAddressing People in Academia\r\n\r\n\r\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\r\n\r\n\r\nData Science Major at UC Irvine\r\n\r\n\r\nThis is one example of a data science major at the college level.\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-31T14:42:36-07:00"
     },
     {
       "path": "schedule.html",
       "title": "Daily Schedule",
       "author": [],
-      "contents": "\n\nBefore Starting the Program\n\n\nUnder Construction\n\n\n\nDay 1 ● July 6 ● Introduction to COSMOS, R, and Data\n\n\nTime\nTopic\nLinks\n08:30 - 09:00\nWelcome\n\n09:00 - 09:50\nIntroduction to R and R Markdown\n\n10:00 - 10:50\nIntroduction to Data\n\n11:00 - 12:00\nIntroduction to Data Visualization\n\n\n\nDay 2 ● July 7\n\n\nUnder Construction\n\n\nDay 3 ● July 8\n\n\nUnder Construction\n\n\nDay 4 ● July 9\n\n\nUnder Construction\n\n\nDay 5 ● July 12\n\n\nUnder Construction\n\n\nDay 6 ● July 13\n\n\nUnder Construction\n\n\nDay 7 ● July 14\n\n\nUnder Construction\n\n\nDay 8 ● July 15\n\n\nUnder Construction\n\n\nDay 9 ● July 16\n\n\nUnder Construction\n\n\nDay 10 ● July 19\n\n\nUnder Construction\n\n\nDay 11 ● July 20\n\n\nUnder Construction\n\n\nDay 12 ● July 21\n\n\nUnder Construction\n\n\nDay 13 ● July 22\n\n\nUnder Construction\n\n\nDay 14 ● July 23\n\n\nUnder Construction\n\n\nDay 15 ● July 26\n\n\nUnder Construction\n\n\nDay 16 ● July 27\n\n\nUnder Construction\n\n\nDay 17 ● July 28\n\n\nUnder Construction\n\n\nDay 18 ● July 29\n\n\nUnder Construction\n\n\nDay 19 ● July 30\n\n\nUnder Construction\n\n\nDay 20 ● July 31\n\n\n<\nUnder Construction\n\n\n\n\n\nvar acc = document.getElementsByClassName(\"accordion\");\nvar i;\n\nfor (i = 0; i < acc.length; i++) {\n  acc[i].addEventListener(\"click\", function() {\n    /* Toggle between adding and removing the \"active\" class,\n    to highlight the button that controls the panel */\n    this.classList.toggle(\"active\");\n\n    /* Toggle between hiding and showing the active panel */\n    var panel = this.nextElementSibling;\n    if (panel.style.display === \"block\") {\n      panel.style.display = \"none\";\n    } else {\n      panel.style.display = \"block\";\n    }\n  });\n}\n\n\n\n\n",
-      "last_modified": "2021-05-31T12:20:56-07:00"
+      "contents": "\r\n\r\nBefore Starting the Program\r\n\r\n\r\nUnder Construction\r\n\r\n\r\n\r\nDay 1 ● July 6 ● Introduction to COSMOS, R, and Data\r\n\r\n\r\nTime\r\nTopic\r\nLinks\r\n08:30 - 09:00\r\nWelcome\r\n\r\n09:00 - 09:50\r\nIntroduction to R and R Markdown\r\n\r\n10:00 - 10:50\r\nIntroduction to Data\r\n\r\n11:00 - 12:00\r\nIntroduction to Data Visualization\r\n\r\n\r\n\r\nDay 2 ● July 7\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 3 ● July 8\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 4 ● July 9\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 5 ● July 12\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 6 ● July 13\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 7 ● July 14\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 8 ● July 15\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 9 ● July 16\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 10 ● July 19\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 11 ● July 20\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 12 ● July 21\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 13 ● July 22\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 14 ● July 23\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 15 ● July 26\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 16 ● July 27\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 17 ● July 28\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 18 ● July 29\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 19 ● July 30\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 20 ● July 31\r\n\r\n\r\n<\r\nUnder Construction\r\n\r\n\r\n\r\n\r\n\r\nvar acc = document.getElementsByClassName(\"accordion\");\r\nvar i;\r\n\r\nfor (i = 0; i < acc.length; i++) {\r\n  acc[i].addEventListener(\"click\", function() {\r\n    /* Toggle between adding and removing the \"active\" class,\r\n    to highlight the button that controls the panel */\r\n    this.classList.toggle(\"active\");\r\n\r\n    /* Toggle between hiding and showing the active panel */\r\n    var panel = this.nextElementSibling;\r\n    if (panel.style.display === \"block\") {\r\n      panel.style.display = \"none\";\r\n    } else {\r\n      panel.style.display = \"block\";\r\n    }\r\n  });\r\n}\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-31T14:42:39-07:00"
     }
   ],
   "collections": []
