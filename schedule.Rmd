@@ -191,5 +191,3 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 ```
-
-<a href="slides/week01/01a-welcome.html" target = "_blank"> <i class="fas fa-chalkboard-teacher" aria-hidden="true" title="Link to lecture video"></i></a>
