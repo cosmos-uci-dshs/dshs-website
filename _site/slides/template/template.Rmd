@@ -17,7 +17,7 @@ output:
 
 class: title-slide
 
-```{r echo = FALSE}
+```{r echo = FALSE, warning=FALSE}
 library(fabricerin)
 ```
 
