@@ -7,7 +7,17 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <button class="accordion">Before Starting the Program</button>
-<div class="panel">  Under Construction</div>
+<div class="panel">  
+
+| To-Do         |                              | 
+|---------------|------------------------------------|
+| Download and Install R                          | |
+| Download and Install RStudio|       |
+|Setup RStudio|       |
+|Download packages |       |
+
+
+</div>
 		
 <!-- connecting to UCI email address-->
 		

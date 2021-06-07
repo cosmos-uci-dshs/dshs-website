@@ -41,26 +41,16 @@ html {
   --fig-cap-size:    13px;
 }
 
-nav {
-  font-size: 18px;
-  background-color: #00386c;
+
+
+.distill-site-header {
+  --title-size:       18px;    
+  --text-color:       #0064A4; /* edited */
+  --text-size:        15px;
+  --hover-color:      #6AA2B8; /* edited */
+  --bkgd-color:       #FFD200; /* edited */
 }
 
-
-nav a {
-  color: antiquewhite;
-  font-weight: bold;
-
-}
-
-nav a:hover{
-   border-bottom: 3px solid  antiquewhite;
-   color: antiquewhite;
-   font-weight: bold;
-   text-decoration: none;
-
-
-}
 
 hr{
   border: 1px solid #93cbff;

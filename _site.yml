@@ -5,6 +5,7 @@ description: |
   COSMOS UCI Data Science in Health Sciences
 output_dir: "_site"
 navbar:
+  search: false
   logo:
     image: img/cosmos-uci-dshs.png
     href: https://uci-dshs.netlify.app/
