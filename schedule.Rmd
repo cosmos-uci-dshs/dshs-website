@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Download and Install R | [Link](https://mirror.las.iastate.edu/CRAN/) [Video](https://uci.yuja.com/V/Video?v=3173351&node=10757512&a=280036139&autoplay=1) |
 | Download and Install RStudio| [Link](https://www.rstudio.com/products/rstudio/download/)  [Video](https://uci.yuja.com/V/Video?v=3173359&node=10757552&a=664679852&autoplay=1)     |
 |Setup RStudio| [Video](https://uci.yuja.com/V/Video?v=3173384&node=10757676&a=717681262&autoplay=1)       |
-|Download packages |<a href="R-code/code-00-setup.R" download>File</a>      |
+|Download packages |<a href="R-code/code-00-setup.R" download>File</a> [Video](https://uci.yuja.com/V/Video?v=3173415&node=10757778&a=1269482034&autoplay=1)     |
 
 
 </div>
