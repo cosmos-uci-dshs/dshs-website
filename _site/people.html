@@ -2107,7 +2107,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
   </style>
-  <style type="text/css">/* Style the buttons that are used to open and close the accordion panel */
+  <style type="text/css">*{
+   font-size: 100%;
+   font-family: Helvetica;
+  }
+
+
+
+  /* Style the buttons that are used to open and close the accordion panel */
   .accordion {
     background-color: #eee;
     color: #444;
@@ -2131,6 +2138,42 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     background-color: white;
     display: none;
     overflow: hidden;
+    font: 20px;
+  }
+
+  html {
+    /*-- Main font sizes --*/
+    --title-size:      50px;
+    --body-size:       1.06rem;
+    --code-size:       14px;
+    --aside-size:      12px;
+    --fig-cap-size:    13px;
+  }
+
+  nav {
+    font-size: 18px;
+    background-color: #00386c;
+  }
+
+
+  nav a {
+    color: antiquewhite;
+    font-weight: bold;
+
+  }
+
+  nav a:hover{
+     border-bottom: 3px solid  antiquewhite;
+     color: antiquewhite;
+     font-weight: bold;
+     text-decoration: none;
+
+
+  }
+
+  hr{
+    border: 1px solid #93cbff;
+
   }</style>
   <style type="text/css">
   /* base style */

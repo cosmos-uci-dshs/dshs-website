@@ -6,28 +6,28 @@
       "description": "COSMOS (The California State Summer School for Mathematics and Science) at UC Irvine - Data Science in Health Sciences for High School Students\n",
       "author": [],
       "contents": "\r\nYouTube video to come\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-31T17:34:11-07:00"
+      "last_modified": "2021-06-06T18:59:36-07:00"
     },
     {
       "path": "people.html",
       "title": "People",
       "author": [],
       "contents": "\r\nFaculty\r\n\r\n\r\nDr. Mine Dogucu\r\nDr. Babak Shahbaba\r\nshe/her/hers\r\nhe/him/his\r\n Your browser does not support the audio element. \r\n Your browser does not support the audio element. \r\nTeaching Assistants (TAs)\r\n\r\n\r\n\r\nAlicia Becerra Romero\r\nKyle Conniff\r\nThabat Dahdoul\r\nshe/her/hers\r\nhe/him/his\r\nshe/her/hers\r\n Your browser does not support the audio element. \r\n Your browser does not support the audio element. \r\n Your browser does not support the audio element. \r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-31T17:34:14-07:00"
+      "last_modified": "2021-06-06T18:59:39-07:00"
     },
     {
       "path": "resources.html",
       "title": "Resources",
       "author": [],
       "contents": "\r\n\r\nRemote Student Success Guide \r\n\r\n\r\nLearn how to be successful as you navigate remote learning.\r\n\r\n\r\nZoom Student Guide\r\n\r\n\r\nGetting started with zoom\r\n\r\n\r\nAddressing People in Academia\r\n\r\n\r\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\r\n\r\n\r\nData Science Major at UC Irvine\r\n\r\n\r\nThis is one example of a data science major at the college level.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-31T17:34:15-07:00"
+      "last_modified": "2021-06-06T18:59:41-07:00"
     },
     {
       "path": "schedule.html",
       "title": "Daily Schedule",
       "author": [],
       "contents": "\r\n\r\nBefore Starting the Program\r\n\r\n\r\nUnder Construction\r\n\r\n\r\n\r\nDay 1 ● July 6 ● Introduction to COSMOS, R, and Data\r\n\r\n\r\nTime\r\nTopic\r\nLinks\r\n08:30 - 09:00\r\nWelcome\r\n\r\n09:00 - 09:50\r\nIntroduction to R and R Markdown\r\n\r\n10:00 - 10:50\r\nIntroduction to Data\r\n\r\n11:00 - 12:00\r\nIntroduction to Data Visualization\r\n\r\n\r\n\r\nDay 2 ● July 7\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 3 ● July 8\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 4 ● July 9\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 5 ● July 12\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 6 ● July 13\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 7 ● July 14\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 8 ● July 15\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 9 ● July 16\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 10 ● July 19\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 11 ● July 20\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 12 ● July 21\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 13 ● July 22\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 14 ● July 23\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 15 ● July 26\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 16 ● July 27\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 17 ● July 28\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 18 ● July 29\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 19 ● July 30\r\n\r\n\r\nUnder Construction\r\n\r\n\r\nDay 20 ● July 31\r\n\r\n\r\n<\r\nUnder Construction\r\n\r\n\r\n\r\n\r\n\r\nvar acc = document.getElementsByClassName(\"accordion\");\r\nvar i;\r\n\r\nfor (i = 0; i < acc.length; i++) {\r\n  acc[i].addEventListener(\"click\", function() {\r\n    /* Toggle between adding and removing the \"active\" class,\r\n    to highlight the button that controls the panel */\r\n    this.classList.toggle(\"active\");\r\n\r\n    /* Toggle between hiding and showing the active panel */\r\n    var panel = this.nextElementSibling;\r\n    if (panel.style.display === \"block\") {\r\n      panel.style.display = \"none\";\r\n    } else {\r\n      panel.style.display = \"block\";\r\n    }\r\n  });\r\n}\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-31T17:34:23-07:00"
+      "last_modified": "2021-06-06T18:59:44-07:00"
     }
   ],
   "collections": []
