@@ -1,8 +1,17 @@
 ---
-title: "DSHS"
-description: |
-  COSMOS (The California State Summer School for Mathematics and Science) at UC Irvine - Data Science in Health Sciences for High School Students
+title: "Data Science in Health Sciences at COSMOS UCI"
 site: distill::distill_website
 ---
 
-YouTube video to come
+```{r fig.align='center', out.width="50%", echo=FALSE}
+knitr::include_graphics("img/cosmos-uci-dshs.png")
+```
+
+
+
+The California State Summer School for Mathematics and Science (COSMOS) is a summer program established by the California State Legislature for high school students interested in STEM subjects.
+[UC Irvine](https://www.cosmos.uci.edu) is one of the campuses that hosts talented high school students enrolled in [one of the many clusters](https://www.cosmos.uci.edu/clusters). This cluster focuses on data science in health sciences. 
+
+This cluster explores how data science can be used to better understand and treat human health conditions, with the goal of saving lives. Consider, for example, a person with suspected acute stroke on their way to a hospital. 1) Can clinical data collected in the ambulance be used to determine the best course of action before the patient arrives in the emergency room? 2) What evidence from data could be used to assess stroke risk? 3) Can data be used to help the doctor prescribe diagnostic testing and determine which specific treatment would be most effective for this patient? 5) After the person is discharged from the hospital, can we predict their risk of having another stroke within the next five years?
+
+In this cluster, students will acquire the data science skills needed to answer questions as they apply to numerous disciplines in the health sciences, including but not limited to neuroscience, public health, nursing, and pharmacology. Students will cover exploratory data analysis, data visualization, foundations of probability, design of experiments, linear models, and statistical inference. Students will learn the R programming language to analyze, summarize, and visualize data (no prior programming experience is required). Student capstone projects will involve working with real data to solve a scientific problem in one of the above disciplines.
