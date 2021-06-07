@@ -11,8 +11,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | To-Do         |                              | 
 |---------------|------------------------------------|
-| Download and Install R                          | |
-| Download and Install RStudio|       |
+| Download and Install R | [Link](https://mirror.las.iastate.edu/CRAN/) |
+| Download and Install RStudio| [Link](https://www.rstudio.com/products/rstudio/download/)       |
 |Setup RStudio|       |
 |Download packages |       |
 
