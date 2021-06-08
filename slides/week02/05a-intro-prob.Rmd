@@ -45,3 +45,22 @@ library(fabricerin)
  - We now discuss probability as a measure of uncertainty.
  
  - We use some examples from genetics.  
+ 
+---
+ 
+## Some Commonly Used Genetic Terms
+ 
+- Gene
+
+- Single Nucleotide Polymorphisms (SNPs)
+
+- Alleles
+
+- Genotype
+
+- Homozygous vs. heterozygous
+
+- Phenotype
+
+- Recessive vs. dominant
+
