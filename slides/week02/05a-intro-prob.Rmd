@@ -1,0 +1,47 @@
+---
+title: "Introduction to Probability"
+author: "Dr. Babak Shahbaba"
+output: 
+  xaringan::moon_reader:
+    css: ["slide-style.css"]
+    lib_dir: libs
+    seal: false
+    nature:
+      ratio: 16:9
+      highlightStyle: "pygments"
+      highlightLines: true
+      highlightLanguage: "r"
+
+---
+
+class: title-slide
+
+```{r echo = FALSE}
+library(fabricerin)
+```
+
+<br>
+<br>
+.right-panel[ 
+<br>
+
+# `r rmarkdown::metadata$title`
+
+## `r rmarkdown::metadata$author`
+
+]
+
+---
+
+## Introduction
+ - We have used plots and summary statistics to learn about the distribution of variables and to investigate their relationships. 
+ 
+ - We now want to generalize our findings to the population. 
+ 
+ - However, we almost always remain uncertain about the true distributions and relationships in the population.
+ 
+ - Therefore, when we generalize our findings from a sample to the whole population, we should explicitly specify the extent of our uncertainty.  
+ 
+ - We now discuss probability as a measure of uncertainty.
+ 
+ - We use some examples from genetics.  

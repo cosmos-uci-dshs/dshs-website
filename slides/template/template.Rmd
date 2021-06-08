@@ -125,3 +125,11 @@ $$x+7\beta$$
 Even more math:
 
 $x+7 +\mu$
+
+---
+
+## Figure
+```{r, echo=FALSE,out.width='50%',fig.align='center'}
+knitr::include_graphics('img/cosmos-uci-dshs.png')
+```
+
