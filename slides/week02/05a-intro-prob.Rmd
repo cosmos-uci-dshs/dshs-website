@@ -93,4 +93,55 @@ $P$, which represents how certain we are about the occurrence of the correspondi
   - Coin tossing: P(H)+ P(T)=1
   - Die rolling:  P(1)+P(2)+P(3)+P(4)+P(5)+P(6) = 1.
 
+- Therefore, if the outcomes are equally probable, the probability of
+each outcome is $1/n_{S}$, where $n_{S}$ is the number of possible
+outcomes.
+  
+---
 
+## Random events
+
+- An {event} is a subset of the sample space $S$. 
+
+- A possible event for die rolling is $E = \{1, 3, 5\}$. This is the event of rolling an
+odd number. 
+
+- For the genotype example, $E=\{\mathit{AA}, \mathit{aa}\}$
+is the event that a person is homozygous.
+
+- An event occurs when any outcome within that event occurs. 
+
+- We denote the probability of event $E$ as $P(E)$.
+ 
+- The probability of an event is the sum of the probabilities for all
+individual outcomes included in that event.
+
+---
+
+## Example
+
+- As a running example, we consider a bi-allelic gene A with
+two alleles $A$ and $a$. 
+- We assume that allele $a$ is recessive and
+causes a specific disease. 
+- Then only people with the genotype
+$\mathit{aa}$ have the disease. 
+
+```{r, echo=FALSE,out.width='25%',fig.align='center'}
+knitr::include_graphics('../../img/vennGene1.png')
+```
+
+---
+
+## Example
+
+- We can define four events as follows:
+
+$$
+\begin{array}{l@{\quad}l}
+\mbox{The homozygous event:} & HM    = \{\mathit{AA}, \mathit{aa}\}, \\
+\mbox{The heterozygous event:} & HT  = \{\mathit{Aa}\},  \\  
+\mbox{The no-disease event:} & ND   = \{\mathit{AA}, \mathit{Aa}\}, \\
+\mbox{The disease event:} & D   = \{\mathit{aa}\} .
+\end{array}
+$$
