@@ -51,7 +51,7 @@
 }
 .pull-right {
   float: right;
-  width: 58%;
+  width: 48%;
 }
 
 /*end of column layouts*/
@@ -163,3 +163,7 @@ blockquote {
   color: #1B3D6D;
   background-color: #C6BEB5;
 }
+
+
+table { display: inline-block; }
+

@@ -51,8 +51,10 @@
 }
 .pull-right {
   float: right;
-  width: 58%;
+  width: 48%;
 }
+
+
 
 /*end of column layouts*/
 
@@ -163,3 +165,17 @@ blockquote {
   color: #1B3D6D;
   background-color: #C6BEB5;
 }
+
+/*font awesome styling*/
+
+i.fas, i.fab {
+  color:  #1B3D6D;
+}
+
+table { display: inline-block; }
+
+.remark-slide thead, .remark-slide tr:nth-child(2n) {
+    background-color: #afc8eb;
+  
+}
+

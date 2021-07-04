@@ -5,28 +5,28 @@
       "title": "Data Science in Health Sciences at COSMOS UCI",
       "author": [],
       "contents": "\n\n\n\nThe California State Summer School for Mathematics and Science (COSMOS) is a summer program established by the California State Legislature for high school students interested in STEM subjects. UC Irvine is one of the campuses that hosts talented high school students enrolled in one of the many clusters. This specific cluster focuses on data science in health sciences.\nThis cluster explores how data science can be used to better understand and treat human health conditions, with the goal of saving lives. Consider, for example, a person with suspected acute stroke on their way to a hospital. 1) Can clinical data collected in the ambulance be used to determine the best course of action before the patient arrives in the emergency room? 2) What evidence from data could be used to assess stroke risk? 3) Can data be used to help the doctor prescribe diagnostic testing and determine which specific treatment would be most effective for this patient? 5) After the person is discharged from the hospital, can we predict their risk of having another stroke within the next five years?\nIn this cluster, students will acquire the data science skills needed to answer questions as they apply to numerous disciplines in the health sciences, including but not limited to neuroscience, public health, nursing, and pharmacology. Students will cover exploratory data analysis, data visualization, foundations of probability, design of experiments, linear models, and statistical inference. Students will learn the R programming language to analyze, summarize, and visualize data (no prior programming experience is required). Student capstone projects will involve working with real data to solve a scientific problem in one of the above disciplines.\n\n\n\n",
-      "last_modified": "2021-06-07T10:00:11-07:00"
+      "last_modified": "2021-07-03T22:37:00-07:00"
     },
     {
       "path": "people.html",
       "title": "People",
       "author": [],
       "contents": "\nFaculty\n\n\nDr. Mine Dogucu\nDr. Babak Shahbaba\nshe/her/hers\nhe/him/his\n Your browser does not support the audio element. \n Your browser does not support the audio element. \nTeaching Assistants (TAs)\n\n\n\nAlicia Becerra Romero\nKyle Conniff\nThabat Dahdoul\nshe/her/hers\nhe/him/his\nshe/her/hers\n Your browser does not support the audio element. \n Your browser does not support the audio element. \n Your browser does not support the audio element. \n\n\n\n",
-      "last_modified": "2021-06-07T10:00:12-07:00"
+      "last_modified": "2021-07-03T22:37:00-07:00"
     },
     {
       "path": "resources.html",
       "title": "Resources",
       "author": [],
       "contents": "\n\nRemote Student Success Guide \n\n\nLearn how to be successful as you navigate remote learning.\n\n\nZoom Student Guide\n\n\nGetting started with zoom\n\n\nAddressing People in Academia\n\n\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\n\n\nData Science Major at UC Irvine\n\n\nThis is one example of a data science major at the college level.\n\n\n\n\n",
-      "last_modified": "2021-06-07T10:00:12-07:00"
+      "last_modified": "2021-07-03T22:37:01-07:00"
     },
     {
       "path": "schedule.html",
       "title": "Daily Schedule",
       "author": [],
       "contents": "\n\nBefore Starting the Program\n\n\nTo-Do\n\nDownload and Install R\nLink Video\nDownload and Install RStudio\nLink Video\nSetup RStudio\nVideo\nDownload packages\nFile Video\n\n\n\nDay 1 ● July 6 ● Introduction to COSMOS, R, and Data\n\n\nTime\nTopic\nLinks\n08:30 - 09:00\nWelcome\n\n09:00 - 09:50\nIntroduction to R and R Markdown\n\n10:00 - 10:50\nIntroduction to Data\n\n11:00 - 12:00\nIntroduction to Data Visualization\n\n\n\nDay 2 ● July 7\n\n\nUnder Construction\n\n\nDay 3 ● July 8\n\n\nUnder Construction\n\n\nDay 4 ● July 9\n\n\nUnder Construction\n\n\nDay 5 ● July 12\n\n\nUnder Construction\n\n\nDay 6 ● July 13\n\n\nUnder Construction\n\n\nDay 7 ● July 14\n\n\nUnder Construction\n\n\nDay 8 ● July 15\n\n\nUnder Construction\n\n\nDay 9 ● July 16\n\n\nUnder Construction\n\n\nDay 10 ● July 19\n\n\nUnder Construction\n\n\nDay 11 ● July 20\n\n\nUnder Construction\n\n\nDay 12 ● July 21\n\n\nUnder Construction\n\n\nDay 13 ● July 22\n\n\nUnder Construction\n\n\nDay 14 ● July 23\n\n\nUnder Construction\n\n\nDay 15 ● July 26\n\n\nUnder Construction\n\n\nDay 16 ● July 27\n\n\nUnder Construction\n\n\nDay 17 ● July 28\n\n\nUnder Construction\n\n\nDay 18 ● July 29\n\n\nUnder Construction\n\n\nDay 19 ● July 30\n\n\nUnder Construction\n\n\nDay 20 ● July 31\n\n\n<\nUnder Construction\n\n\n\n\n\nvar acc = document.getElementsByClassName(\"accordion\");\nvar i;\n\nfor (i = 0; i < acc.length; i++) {\n  acc[i].addEventListener(\"click\", function() {\n    /* Toggle between adding and removing the \"active\" class,\n    to highlight the button that controls the panel */\n    this.classList.toggle(\"active\");\n\n    /* Toggle between hiding and showing the active panel */\n    var panel = this.nextElementSibling;\n    if (panel.style.display === \"block\") {\n      panel.style.display = \"none\";\n    } else {\n      panel.style.display = \"block\";\n    }\n  });\n}\n\n\n\n\n",
-      "last_modified": "2021-06-07T10:00:13-07:00"
+      "last_modified": "2021-07-03T22:37:01-07:00"
     }
   ],
   "collections": []

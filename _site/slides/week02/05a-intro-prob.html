@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Introduction to Probability</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Dr. Babak Shahbaba" />
+    <link rel="stylesheet" href="slide-style.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+
+class: title-slide
+
+
+
+&lt;br&gt;
+&lt;br&gt;
+.right-panel[ 
+&lt;br&gt;
+
+# Introduction to Probability
+
+## Dr. Babak Shahbaba
+
+]
+
+---
+
+## Introduction
+ - We have used plots and summary statistics to learn about the distribution of variables and to investigate their relationships. 
+ 
+ - We now want to generalize our findings to the population. 
+ 
+ - However, we almost always remain uncertain about the true distributions and relationships in the population.
+ 
+ - Therefore, when we generalize our findings from a sample to the whole population, we should explicitly specify the extent of our uncertainty.  
+ 
+ - We now discuss probability as a measure of uncertainty.
+ 
+ - We use some examples from genetics.  
+ 
+---
+ 
+## Some Commonly Used Genetic Terms
+ 
+- Gene
+
+- Single Nucleotide Polymorphisms (SNPs)
+
+- Alleles
+
+- Genotype
+
+- Homozygous vs. heterozygous
+
+- Phenotype
+
+- Recessive vs. dominant
+
+---
+
+## Random phenomena and their sample space
+
+- A phenomenon is called random if its outcome (value) cannot be determined with certainty before it occurs. 
+
+- For example, coin tossing and genotypes  are random phenomena.
+
+- The collection of all possible outcomes `\(S\)` is called the sample space. 
+
+  - Coin tossing: S=\{H, T\} 
+  - Die rolling: S=\{1, 2, 3, 4, 5, 6\} 
+  - Bi-allelic gene: S=\{A, a\} 
+  - Genotype: S=\{AA, Aa, aa\}
+
+---
+
+## Probability
+
+- To each possible outcome in the sample space, we assign a probability
+`\(P\)`, which represents how certain we are about the occurrence of the corresponding outcome. 
+
+- For an outcome `\(o\)`, we denote the probability as `\(P(o)\)`, where `\(0 \le P(o) \le 1\)`. 
+
+- The total probability of all outcomes in the sample space is always 1.
+
+  - Coin tossing: P(H)+ P(T)=1
+  - Die rolling:  P(1)+P(2)+P(3)+P(4)+P(5)+P(6) = 1.
+
+- Therefore, if the outcomes are equally probable, the probability of
+each outcome is `\(1/n_{S}\)`, where `\(n_{S}\)` is the number of possible
+outcomes.
+  
+---
+
+## Random events
+
+- An {event} is a subset of the sample space `\(S\)`. 
+
+- A possible event for die rolling is `\(E = \{1, 3, 5\}\)`. This is the event of rolling an
+odd number. 
+
+- For the genotype example, `\(E=\{\mathit{AA}, \mathit{aa}\}\)`
+is the event that a person is homozygous.
+
+- An event occurs when any outcome within that event occurs. 
+
+- We denote the probability of event `\(E\)` as `\(P(E)\)`.
+ 
+- The probability of an event is the sum of the probabilities for all
+individual outcomes included in that event.
+
+---
+
+## Example
+
+- As a running example, we consider a bi-allelic gene A with
+two alleles `\(A\)` and `\(a\)`. 
+- We assume that allele `\(a\)` is recessive and
+causes a specific disease. 
+- Then only people with the genotype
+`\(\mathit{aa}\)` have the disease. 
+
+&lt;img src="../../img/vennGene1.png" width="25%" style="display: block; margin: auto;" /&gt;
+
+---
+
+## Example
+
+- We can define four events as follows:
+
+$$
+\begin{array}{l@{\quad}l}
+\mbox{The homozygous event:} &amp; HM    = \{\mathit{AA}, \mathit{aa}\}, \\
+\mbox{The heterozygous event:} &amp; HT  = \{\mathit{Aa}\},  \\  
+\mbox{The no-disease event:} &amp; ND   = \{\mathit{AA}, \mathit{Aa}\}, \\
+\mbox{The disease event:} &amp; D   = \{\mathit{aa}\} .
+\end{array}
+$$
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"ratio": "16:9",
+"highlightStyle": "pygments",
+"highlightLines": true,
+"highlightLanguage": "r"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
