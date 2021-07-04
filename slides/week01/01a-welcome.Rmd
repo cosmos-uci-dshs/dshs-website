@@ -285,6 +285,28 @@ Do not open too many windows on your computers. Keep e-mail, social media, messa
 knitr::include_graphics("img/closed-windows.jpeg")
 ```
 
+---
+
+class: middle 
+
+.pull-left[
+
+Keep your files organized.   
+
+We use numbers (e.g. `01`, `02`) to indicate the day of the program.  
+
+We use letters (e.g. `a`, `b`) to indicate the sequence of lectures/labs in a given day.
+
+]
+
+.pull-right[
+
+```{r echo=FALSE, out.width="70%", fig.align="center"}
+knitr::include_graphics("img/create-dir.png")
+```
+
+]
+
 
 
 
