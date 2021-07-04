@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | 08:30 - 09:00 | Welcome                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01a-welcome.html)       |
 | 09:00 - 09:50 | Introduction to R and R Markdown   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01b-intro-r.html)       |
 | 10:00 - 10:50 | Introduction to Data               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01c-intro-data.html) [Files](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/01c-intro-data.Rmd)     |
-| 11:00 - 12:00 | Describing Data |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01c-describe-data.html)        |
+| 11:00 - 12:00 | Describing Data                    |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01d-describe-data.html)        |
 
 </div>
 		
