@@ -26,10 +26,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 08:30 - 09:00 | Welcome                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01a-welcome.html)       |
-| 09:00 - 09:50 | Introduction to R and R Markdown   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01b-intro-r.html)       |
-| 10:00 - 10:50 | Introduction to Data               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01c-intro-data.html) [Files](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/01c-intro-data.Rmd)     |
-| 11:00 - 12:00 | Describing Data                    |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01d-describe-data.html)        |
+| 09:00 - 09:25 | Welcome                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01a-welcome.html)       |
+| 09:30 - 10:15 | Introduction to R and R Markdown   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01b-intro-r.html)       |
+| 10:30 - 11:00 | Introduction to Data               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01c-intro-data.html) [Files](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/01c-intro-data.Rmd)     |
+| 11:10 - 12:00 | Describing Data                    |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01d-describe-data.html)        |
 
 </div>
 		
