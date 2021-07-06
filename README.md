@@ -17,7 +17,7 @@ Summer 2021
 
 <hr>
 
-This repo contains the source code for the program website as well as the program materials such as slides and assignments.
+This repo contains the source code for the program website.
 
 The program materials are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
