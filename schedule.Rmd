@@ -33,10 +33,15 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 		
 
-<button class="accordion">Day 2 &#9679; July 7</button>
+<button class="accordion">Day 2 &#9679; July 7 &#9679; Summarizing Data </button>
 <div class="panel">
 
-Under Construction
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Describing Data with Numbers                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/02a-describe-data.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/02a-describe-data.Rmd)|
+| 10:00 - 10:50 | Interpeting Data Visualizations   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/02b-interpret-dataviz.html)       |
+| 11:00 - 12:00 | Visualizing Data               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/02c-visualize-data.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/02c-visualize-data.Rmd)     |
+| 13:00 - 15:00 | Lab: Summarizing Data               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/01c-intro-data.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/02d-lab-summarize-data.Rmd)     |
 
 </div>
 		
