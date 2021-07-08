@@ -51,7 +51,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 09:40 | Improving Data Visualizations                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/03a-improve-dataviz.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/03a-improve-dataviz.Rmd)|
-| 09:40 - 10:00 | Pipe operator   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/03b-pipe-operator.html)       |
+| 09:40 - 10:00 | Pipe operator   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/03b-pipe-op.html)       |
 | 10:10 - 11:00 | Subsetting and Grouping Data               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/03c-subset-group.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/03c-data-wrangle.Rmd)     |
 | 11:10 - 12:00 | Changing Variables              |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/03d-change-variable.html)    |
 
