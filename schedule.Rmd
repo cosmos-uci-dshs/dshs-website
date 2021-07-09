@@ -64,7 +64,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |---------------|------------------------------------|-------|
 | 09:00 - 09:30 | R packages                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/04a-R-packages.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/04a-R-packages.Rmd)|
 | 09:30 - 10:00 | Importing Data   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/04b-import-data.html)       |
-| 10:10 - 11:00 | Data Joins               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/04c-data-joins.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/04c-data-joins.Rmd)     |
+| 10:10 - 11:00 | Data Joins               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/04c-join-data.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/04c-data-joins.Rmd)     |
 | 11:10 - 12:00 | Review              |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week01/04d-review.html)  &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/04d-review.Rmd)   |
 | 13:00 - 15:00 | Lab: Exploring Data              |[Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/04e-explore-data.html){target="_blank"}    |
 
