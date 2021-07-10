@@ -70,40 +70,61 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 		
-<button class="accordion">Day 5 &#9679; July 12</button>
+<button class="accordion">Day 5 &#9679; July 12 &#9679; Probability</button>
 <div class="panel"> 
 
-Under Construction
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Introduction to probability                           |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/05a-intro-prob.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/05a-intro-prob.Rmd)|
+| 10:00 - 10:50 | Joint vs. marginal   | |
+| 11:00 - 12:00 | Conditional probability and independence | |
 
 </div>
 		
-<button class="accordion">Day 6 &#9679; July 13</button>
+<button class="accordion">Day 6 &#9679; July 13 &#9679; Random variables</button>
 <div class="panel"> 
 
 
-Under Construction
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Random variables             |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/06-a-random-variables.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/06-a-random-variables.Rmd)|
+| 10:00 - 10:50 | Probability distributions   | |
+| 11:00 - 12:00 | Discrete vs. continuous distributions | |
+
 
 </div>
 		
-<button class="accordion">Day 7 &#9679; July 14</button>
+<button class="accordion">Day 7 &#9679; July 14 &#9679; Estimation</button>
 <div class="panel"> 
 
-Under Construction
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Point vs. interval estimates      | |
+| 10:00 - 10:50 | Sampling distribution    | |
+| 11:00 - 12:00 | Confidence internval | |
 
 </div>
 		
-<button class="accordion">Day 8 &#9679; July 15</button>
+<button class="accordion">Day 8 &#9679; July 15 &#9679; Hypothesis testing</button>
 <div class="panel"> 
 
-Under Construction
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Null vs. alternative      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/08-a-hypothesis.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/08-a-hypothesis.Rmd) |
+| 10:00 - 10:50 | t-test    | |
+| 11:00 - 12:00 | Chi-squared test | |
 
 </div>
 		
-<button class="accordion">Day 9 &#9679; July 16</button>
+<button class="accordion">Day 9 &#9679; July 16 &#9679; Testing relationships</button>
 <div class="panel">
 
 
-Under Construction
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Two-sample t-test      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/09-a-relationship.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/09-a-relationship.Rmd) |
+| 10:00 - 10:50 | Chi-squared test for contingency tables    | |
+| 11:00 - 12:00 | Nonparametric tests | |
 
 </div>
 		
