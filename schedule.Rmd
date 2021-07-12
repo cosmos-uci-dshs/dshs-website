@@ -75,7 +75,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:50 | Introduction to probability                           |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/05a-intro-prob.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/05a-intro-prob.Rmd)|
+| 09:00 - 09:50 | Introduction to probability                           |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/05a-intro-prob.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/05a-intro-prob.Rmd) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/05b-prob-activity.html){target="_blank"}|
 | 10:00 - 10:50 | Joint vs. marginal   | |
 | 11:00 - 12:00 | Conditional probability and independence | |
 
