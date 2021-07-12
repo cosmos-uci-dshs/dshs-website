@@ -87,7 +87,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:50 | Random variables             |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/06-a-random-variables.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/06-a-random-variables.Rmd)|
+| 09:00 - 09:50 | Random variables             |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/06-a-random-variables.html) &#9679; |
 | 10:00 - 10:50 | Probability distributions   | |
 | 11:00 - 12:00 | Discrete vs. continuous distributions | |
 
@@ -110,7 +110,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:50 | Null vs. alternative      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/08-a-hypothesis.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/08-a-hypothesis.Rmd) |
+| 09:00 - 09:50 | Null vs. alternative      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/08-a-hypothesis.html) &#9679;|
 | 10:00 - 10:50 | t-test    | |
 | 11:00 - 12:00 | Chi-squared test | |
 
@@ -122,7 +122,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:50 | Two-sample t-test      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/09-a-relationship.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week01/09-a-relationship.Rmd) |
+| 09:00 - 09:50 | Two-sample t-test      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/09-a-relationship.html) &#9679; |
 | 10:00 - 10:50 | Chi-squared test for contingency tables    | |
 | 11:00 - 12:00 | Nonparametric tests | |
 
