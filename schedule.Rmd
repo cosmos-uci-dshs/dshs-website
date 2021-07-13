@@ -87,7 +87,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:50 | Random variables             |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/06-a-random-variables.html) &#9679; |
+| 09:00 - 09:50 | Random variables             |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/06-a-random-variables.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/06b-random-variable-activity.html){target="_blank"}|
 | 10:00 - 10:50 | Probability distributions   | |
 | 11:00 - 12:00 | Discrete vs. continuous distributions | |
 
