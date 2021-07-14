@@ -100,7 +100,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 10:20 | Sampling distribution    |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/07_a_SamplingDistn.html) |
-| 10:30 - 12:00 | Confidence interval |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/07_b_ci-prop.html#4) |
+| 10:30 - 12:00 | Confidence interval |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/07_b_ci_prop.html) |
 
 </div>
 		
