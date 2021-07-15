@@ -101,6 +101,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |---------------|------------------------------------|-------|
 | 09:00 - 10:20 | Sampling distribution    |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/07_a_SamplingDistn.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/07a-sampling-dist.Rmd) |
 | 10:30 - 12:00 | Confidence interval |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/07_b_ci_prop.html) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/07b-clt.Rmd) &#9679; [File](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/07c-ci.Rmd) |
+| Extra | Overview |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/07c-estimation.html)|
 
 </div>
 		
@@ -109,9 +110,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:50 | Null vs. alternative      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/08a-hypothesis.html) &#9679;|
+| 09:00 - 09:50 | Null vs. alternative      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/08a-hypothesis.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/08b-hypothesis-activity.html){target="_blank"}|
 | 10:00 - 10:50 | t-test    | |
-| 11:00 - 12:00 | Chi-squared test | |
+| 11:00 - 12:00 | z-test for proportions | |
 
 </div>
 		
