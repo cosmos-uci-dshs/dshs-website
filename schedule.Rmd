@@ -122,9 +122,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:50 | Two-sample t-test      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/09a-relationship.html) &#9679; |
+| 09:00 - 09:50 | Two-sample t-test      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week02/09a-relationship.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week02/09b-relationship-activity.html){target="_blank"}|
 | 10:00 - 10:50 | Chi-squared test for contingency tables    | |
-| 11:00 - 12:00 | Nonparametric tests | |
+| 11:00 - 12:00 | Overview of the final project | |
 
 </div>
 		
