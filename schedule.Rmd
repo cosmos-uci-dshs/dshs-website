@@ -134,9 +134,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:50 | Regression with one binary explanatory variable      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week03/10a-regression.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week03/10b-regression-activity.html){target="_blank"}|
-| 10:00 - 10:50 | Regression with one numerical explanatory variable    | |
-| 11:00 - 12:00 | Multiple linear regression; Inference; Prediction | |
+| 09:00 - 09:50 | Introduction      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week03/10a-regression.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week03/10b-regression-activity.html){target="_blank"}|
+| 10:00 - 10:50 | Multiple linear regression    | |
+| 11:00 - 12:00 | Inference and prediction | |
 
 
 
