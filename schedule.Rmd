@@ -128,11 +128,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 		
-<button class="accordion">Day 10 &#9679; July 19</button>
-<div class="panel"> 
+<button class="accordion">Day 10 &#9679; July 19 &#9679; Linear Regression </button>
+<div class="panel">
 
 
-Under Construction
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Introduction; Regression with one binary explanatory variable      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week03/10a-regression.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week03/10b-regression-activity.html){target="_blank"}|
+| 10:00 - 10:50 | Regression with one numerical explanatory variable    | |
+| 11:00 - 12:00 | Confidence interval; Hypothesis testing; Prediction | |
+
+
 
 </div>
 		
