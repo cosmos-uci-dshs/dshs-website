@@ -128,25 +128,28 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 		
-<button class="accordion">Day 10 &#9679; July 19 &#9679; Linear Regression </button>
+<button class="accordion">Day 10 &#9679; July 19 &#9679; Simple Linear Regression </button>
 <div class="panel">
-
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
 | 09:00 - 09:50 | Introduction      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week03/10a-regression.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week03/10b-regression-activity.html){target="_blank"}|
-| 10:00 - 10:50 | Multiple linear regression    | |
-| 11:00 - 12:00 | Inference and prediction | |
+| 10:00 - 10:50 | Binary explanatory variable    | |
+| 11:00 - 12:00 | Numerical explanatory variable | |
 
 
 
 </div>
 		
-<button class="accordion">Day 11 &#9679; July 20</button>
+<button class="accordion">Day 11 &#9679; July 20 &#9679; Multiple Linear Regression</button>
 <div class="panel"> 
 
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:50 | Introduction      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week03/11a-multiple-regression.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week03/11b-multiple-regression-activity.html){target="_blank"}|
+| 10:00 - 10:50 | Additive models    | |
+| 11:00 - 12:00 | Interaction | |
 
-Under Construction
 
 </div>
 		
