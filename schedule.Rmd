@@ -146,7 +146,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Time          | Topic                              | Links |
 |---------------|------------------------------------|-------|
-| 09:00 - 09:50 | Introduction      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week03/11a-multiple-regression.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week03/11b-multiple-regression-activity.html){target="_blank"}|
+| 09:00 - 09:50 | Introduction      | [Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week03/11a-multiiple-regression.html) &#9679; [Activity](https://cosmos-uci-dshs.github.io/dshs-starter-codes/week03/11b-multiple-regression-activity.html){target="_blank"}|
 | 10:00 - 10:50 | Additive models    | |
 | 11:00 - 12:00 | Interaction | |
 
