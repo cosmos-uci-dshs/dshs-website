@@ -168,14 +168,14 @@ knitr::opts_chunk$set(echo = FALSE)
 <button class="accordion">Day 13 &#9679; July 22</button>
 <div class="panel"> 
 
-Under Construction
+Review of statistical inference. 
 
 </div>
 
 <button class="accordion">Day 14 &#9679; July 23</button>
 <div class="panel"> 
 
-Under Construction
+Data pre-processing and preliminary analysis for the final project.
 
 </div>
 
