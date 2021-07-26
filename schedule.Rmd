@@ -179,50 +179,48 @@ Data pre-processing and preliminary analysis for the final project.
 
 </div>
 
-<button class="accordion">Day 15 &#9679; July 26</button>
+<button class="accordion">Day 15 &#9679; July 26 &#9679; Drawing conclusions</button> 
 <div class="panel"> 
+
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 09:30 | Sample vs. Population                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week04/15a-sample-pop.html)       |
+| 09:30 - 10:00 | Study Design   |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week04/15b-study-design.html)       |
+| 10:10 - 11:00 | Model Assumptions               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week04/15c-model-assumptions.html) |
+| 11:10 - 12:00 | Model Evaluations               |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week04/15d-model-eval.html) |
+
+</div>
+
+<button class="accordion">Day 16 &#9679; July 27 &#9679; Ethics and Communicating Findings</button>
+<div class="panel"> 
+
 
 Under Construction
 
 </div>
 
-<button class="accordion">Day 16 &#9679; July 27</button>
+<button class="accordion">Day 17 &#9679; July 28 &#9679; Final Project</button>
 <div class="panel"> 
 
-
-Under Construction
-
-</div>
-
-<button class="accordion">Day 17 &#9679; July 28</button>
-<div class="panel"> 
-
-Under Construction
-
-</div>
-		
-<button class="accordion">Day 18 &#9679; July 29</button>
-<div class="panel"> 
-
-Under Construction
 
 </div>
 		
-<button class="accordion">Day 19 &#9679; July 30</button>
+<button class="accordion">Day 18 &#9679; July 29 &#9679; Presentation Rehearsals</button>
+<div class="panel"> 
+
+
+
+</div>
+		
+<button class="accordion">Day 19 &#9679; July 30 &#9679; Project Presentations</button>
 
 <div class="panel">
 
-Under Construction
+
 
 </div>
 		
-<button class="accordion">Day 20 &#9679; July 31</button>
-<div class="panel"> <
 
-
-Under Construction
-
-</div>
 
 ```{r}
 htmltools::tagList(
