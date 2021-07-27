@@ -195,19 +195,31 @@ Data pre-processing and preliminary analysis for the final project.
 <div class="panel"> 
 
 
-Under Construction
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:00 | Ethics Case Studies                           |[Link](http://www.webguru.neu.edu/professionalism/research-integrity/ethics-case-studies)       |
+| 10:10 - 11:20 | Improving Data Visualizations   |[Link](https://guides.library.duke.edu/datavis/topten)       |
+| 11:30 - 12:00 | Studying Data Science in College              |[Link](http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofstatistics/datascience_bs/) |
+| 13:00 - 15:00 | Model evaluation and validation for projects              | |
+
+
 
 </div>
 
 <button class="accordion">Day 17 &#9679; July 28 &#9679; Final Project</button>
 <div class="panel"> 
 
+Hands-on work on finalizing project analysis and communication of findings.
 
 </div>
 		
 <button class="accordion">Day 18 &#9679; July 29 &#9679; Presentation Rehearsals</button>
 <div class="panel"> 
 
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:00 - 10:00 | Practice within groups       |
+| 10:10 - 12:00 | Presentations and feedback       |
 
 
 </div>
@@ -216,7 +228,7 @@ Under Construction
 
 <div class="panel">
 
-
+Final poster presentations with all other COSMOS clusters.
 
 </div>
 		
