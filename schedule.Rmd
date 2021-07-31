@@ -228,7 +228,10 @@ Hands-on work on finalizing project analysis and communication of findings.
 
 <div class="panel">
 
-Final poster presentations with all other COSMOS clusters.
+| Time          | Topic                              | Links |
+|---------------|------------------------------------|-------|
+| 09:45 - 10:30 | Final Presentations                            |[Slides](https://cosmos-uci-dshs.github.io/dshs-slides/week04/19a-overview.html)       |
+  
 
 </div>
 		
